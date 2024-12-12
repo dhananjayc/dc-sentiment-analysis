@@ -5,8 +5,11 @@ Basically, the tool receives a text input from the user and predicts whether the
 
 # Features
 **AI-Powered Sentiment Analysis:** Predicts the sentiment of input text in real-time.
+
 **Full-Stack Architecture:** Backend API built with Flask and a responsive frontend using React.
+
 **RESTful API:** Clean and reusable API endpoints for text sentiment analysis.
+
 **Environment Variable Support:** Store sensitive information like API keys securely.
 
 ## Prerequisites
